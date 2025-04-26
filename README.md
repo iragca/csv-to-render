@@ -5,7 +5,7 @@ Install dependencies
 
 Run app
 ```bash
-uv run uvicorn main:app --reload
+uv run main.py
 ```
 
 email
